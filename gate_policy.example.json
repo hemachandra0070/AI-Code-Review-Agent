@@ -1,0 +1,6 @@
+{
+  "fail_severities": ["CRITICAL"],
+  "warning_severities": ["HIGH", "MEDIUM", "LOW"],
+  "invalid_finding_action": "WARNING",
+  "escalate_on_ai_disagreement": true
+}
